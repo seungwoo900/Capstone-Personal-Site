@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    font-family: Ubuntu;
+    background-color: #EEE7DA;
+}
+hr {
+    border: dotted #3A4D39 6px;
+    border-bottom: none;
+}
+
+.introduction {
+    background-color: #88AB8E;
+}
+.introduction .text-center h1 {
+    color: #527853 !important;
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+}
+.introduction .text-center p {
+    color: #527853 !important;
+    font-weight: bold;
+    padding-bottom: 5rem;
+}
+
+.resume > div > img {
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+}
+.resume > div > h1 {
+    color: #527853 !important;
+}
+
+.additional  h1 {
+    color: #527853 !important;
+}
+.additional  div  h2 {
+    color: #4F6F52 !important;
+}
+
+.container h1{
+    color: #527853 !important;
+}
+.container h3 {
+    color: #4F6F52 !important;
+}
+.btn {
+    background-color: #527853 !important;
+}
+
+.foot {
+    background-color: #88AB8E;
+}
